@@ -1,9 +1,4 @@
 
-/**
- * Ori Fogler
- * 318732484
- */
-
 #include <fstream>
 #include <iostream>
 #include "FlyData.h"
