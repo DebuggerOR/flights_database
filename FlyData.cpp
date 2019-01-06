@@ -243,7 +243,7 @@ void FlyData::saveData() {
         file << "this_is_the_end_of_fly_data";
         file.close();
     } else {
-        throw "enable to open file";
+        throw "unable to open file";
     }
 }
 
